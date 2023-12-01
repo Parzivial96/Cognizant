@@ -1,0 +1,13 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app/components/fonts.tsx","import":"Poppins","arguments":[{"weight":["400","600","700"],"subsets":["latin"]}],"variableName":"poppins"} ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+  font-family: '__Poppins_Fallback_9d9b8c';
+  src: local("Arial");
+  ascent-override:92.33%;
+  descent-override:30.78%;
+  line-gap-override:8.79%;
+  size-adjust:113.73%;
+}@font-face {font-family: '__Poppins_Fallback_Fallback_9d9b8c';src: local("Arial");ascent-override: 92.33%;descent-override: 30.78%;line-gap-override: 8.79%;size-adjust: 113.73%
+}.__className_9d9b8c {font-family: '__Poppins_Fallback_9d9b8c', '__Poppins_Fallback_Fallback_9d9b8c';font-style: normal
+}
